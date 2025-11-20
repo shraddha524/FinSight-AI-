@@ -161,14 +161,39 @@ npm run dev
 Create a .env.local file:
 
 MONGODB_URI=your_mongodb_url
+
 NEXT_PUBLIC_FH_API_KEY=your_finhub_key
+
 INGGEST_API_KEY=your_Inngest_key
+
 MAIL_HOST=smtp.gmail.com
+
 MAIL_PORT=587
+
 MAIL_USER=your_email
+
 MAIL_PASS=your_email_password
+
 NEXTAUTH_SECRET=your_long_secret
 
 ---
 
 **🖼️ Screenshots**
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+![Homepage](./screenshots/dashboardstock.PNG)
+
+### 📊 Login
+![Dashboard](./screenshots/login.PNG)
+
+### 📑 Signup 
+![Interview](./screenshots/signup.PNG)
+
+### 🔁 stockdetails
+![Workflow](./screenshots/stockdetails.PNG)
+
+### 🔁 watchliststandalerts
+![Workflow](./screenshots/watchlistandalerts.PNG)
+
