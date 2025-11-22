@@ -181,3 +181,37 @@ NEXTAUTH_SECRET=your_long_secret
 **🖼️ Screenshots**
 
 
+### **Authentication**
+#### **Sign Up**
+![Sign Up](Screenshots/sign_up.png)
+
+#### **Log In**
+![Log In](Screenshots/Log_in.png)
+
+---
+
+### **Dashboard**
+![Dashboard](Screenshots/dashboard.png)
+![Dashboard Version 2](Screenshots/dashboard_v2.png)
+
+---
+
+### **Search**
+![Search](Screenshots/search.png)
+
+---
+
+### **Stock Details**
+![Stock Details](Screenshots/stock_details.png)
+![Stock Details V2](Screenshots/stock_details_v2.png)
+
+---
+
+### **Watchlist**
+![Watchlist](Screenshots/watchlist.png)
+
+---
+
+### **Price Alerts**
+![Price Alerts](Screenshots/price_alert.png)
+
