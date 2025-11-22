@@ -185,8 +185,6 @@ NEXTAUTH_SECRET=your_long_secret
 ### 🏠 Dashboard
 ![Homepage](./screenshots/dashboardstock.PNG)
 
-### 📊 Login
-![Dashboard](./screenshots/login.PNG)
 
 ### 📑 Signup 
 ![Interview](./screenshots/signup.PNG)
