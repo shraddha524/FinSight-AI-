@@ -180,18 +180,4 @@ NEXTAUTH_SECRET=your_long_secret
 
 **🖼️ Screenshots**
 
-## 📸 Screenshots
-
-### 🏠 Dashboard
-![Homepage](./screenshots/dashboardstock.PNG)
-
-
-### 📑 Signup 
-![Interview](./screenshots/signup.PNG)
-
-### 🔁 stockdetails
-![Workflow](./screenshots/stockdetails.PNG)
-
-### 🔁 watchliststandalerts
-![Workflow](./screenshots/watchlistandalerts.PNG)
 
